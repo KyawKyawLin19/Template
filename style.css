@@ -1,0 +1,172 @@
+body {
+    font-family: 'Dosis', sans-serif;
+}
+
+.header-text {
+    background: #333;
+    padding: 10px;
+}
+
+.header-text a, .logo-text a{
+    text-decoration: none;
+    color: #ffffff;
+    letter-spacing: 1px;
+}
+
+i {
+    color: #00BCD5;
+}
+
+.stethoscope{
+    color: #eee;
+}
+
+.bg-color {
+    background: #00BCD5;
+}
+
+.nav-item-color, .hero-p-text {
+    font-size: 15px;
+    letter-spacing: 1px;
+    font-family: 'Open Sans', sans-serif;  
+}
+
+.nav-item {
+    padding: 5px;
+}
+
+.nav-item-color:hover, .brand-color:hover, .nav-item-color {
+    color: #fff;
+    padding: 8px 22px;
+}
+
+.brand-color {
+    font-size: 2rem;
+    letter-spacing: 1px;
+    font-weight: bold;
+    color: #eee;
+}
+
+.btn-book-now {
+    color: #00BCD5;
+    background: #fff;
+    border: 1px solid #fff;
+    padding: 6px 27px;
+}
+
+.hero-text {
+    padding-top: 64px; 
+}
+
+
+.hero-title {
+    font-size: 64px;
+    letter-spacing: 1px;
+    font-weight: 300;
+}
+
+.text-bold {
+    font-weight: 800;
+}
+
+.hero-p-text {
+    color: #777;
+    padding: 16px 0px;
+    letter-spacing: 1px;
+}
+
+.btn-common {
+    color: #fff;
+    border-radius: 0;
+}
+
+.btn-red {
+    background: #ED948E;
+}
+
+.btn-blue {
+    background: #00BCD5;
+}
+
+.btn-common a {
+    text-decoration: none;
+    margin: 18px 0px;
+    padding: 10px 25px;
+    color: #fff;
+}
+
+
+.mt-40 {
+    margin-top: 80px;
+}
+
+.mt-48 {
+    margin-top: 48px;
+    padding-top: 48px;
+}
+
+.title {
+    letter-spacing: 2px;
+    font-size: 50px;
+    font-weight: 500;
+}
+
+.appointment {
+    background: #00BCD5;
+    color: #FFF;
+    padding: 60px 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.appointment-title {
+    font-size: 2rem;
+    letter-spacing: 5px;
+    font-weight: 500;
+}
+
+.btn-appointment a{
+    text-decoration: none;
+    color: #fff;
+    padding: 10px 20px;
+    border:2px solid #fff;
+}
+
+.mb-20 {
+    margin-bottom: 20px; 
+}
+
+.appointment-text {
+    display: block;
+    font-size: 1rem;
+}
+
+
+
+
+
+
+
+.footer {
+    background: #212529;
+    color: #777777;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.first-footer {
+    padding: 62px 0px;
+}
+
+.second-footer {
+    padding: 15px 0;
+}
+
+.footer-title {
+    color: #fff;
+    font-weight: 600;
+    font-size: 1.5rem;
+}
+
+.footer-text {
+    letter-spacing: 1px;
+    font-size: 15px;
+}
